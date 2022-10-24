@@ -6,15 +6,18 @@
 
 
 
- #logo  {
-    color: rgb(255, 255, 255);
+ header {
     background-color: rgb(32, 153, 223);
     background-image: url("../img/pattern.png");
     background-size: contain;
     margin: 0; 
     text-align: left;
-    padding: 50px;
 }
+
+#logo{
+    width: 25%;
+}
+
 h1 {
     margin-bottom: 0%;
 }
@@ -50,3 +53,25 @@ table {
     margin-top: 40px;
 }
 
+h3{
+    font-size: 30px;
+    opacity: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#notizia{
+    color: white;
+    background-image: url("../img/monitor.jpg");
+    background-size: auto 300px;
+    background-repeat: no-repeat;
+    border-bottom: 50px;
+}
+
+#anotizia{
+    color: white;
+    background-image: url("../img/graph.jpg");
+    background-size: auto 300px;
+    background-repeat: no-repeat;
+    border-bottom: 50px;
+}
