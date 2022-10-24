@@ -6,7 +6,7 @@
 
 
 
- h3  {
+ #logo  {
     color: rgb(255, 255, 255);
     background-color: rgb(32, 153, 223);
     background-image: url("../img/pattern.png");
@@ -32,7 +32,11 @@ figure {
     margin-bottom: 0%;
 }
 
-p {
+#desc {
     margin-bottom: 0%;
     margin-top: 0%;
+}
+
+#bscritta {
+    background-color: yellow;
 }
