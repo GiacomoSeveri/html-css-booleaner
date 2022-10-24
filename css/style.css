@@ -1,5 +1,5 @@
 #cont {
-    width: 70%;
+    width: 65%;
     margin: 50px auto;
     margin-top: 0%;
 }
@@ -14,4 +14,25 @@
     margin: 0; 
     text-align: left;
     padding: 50px;
+}
+h1 {
+    margin-bottom: 0%;
+}
+
+#trasp{
+    opacity: 50%;
+}
+
+#scritta{
+    color: rgb(84, 160, 247);
+}
+
+figure {
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+p {
+    margin-bottom: 0%;
+    margin-top: 0%;
 }
